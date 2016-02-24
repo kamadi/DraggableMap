@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DraggableMap</string>
+    <string name="title_activity_main">DraggableMap</string>
+    <string name="gps_on">Could not find you.Please turn on GPS</string>
+</resources>
